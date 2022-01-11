@@ -3,9 +3,17 @@ We like
 He likes
 She likes
 
+<<<<<<< HEAD
 ddd
 sss
 fff
 -------------------
 
 
+=======
+1
+2
+3
+>>>>>>> 033c7b568ddc3cf0c4a81e3a43a0f02d306d8330
+
+ddd
