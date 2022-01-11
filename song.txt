@@ -1,2 +1,4 @@
 I like 
 We like
+He likes
+She likes
